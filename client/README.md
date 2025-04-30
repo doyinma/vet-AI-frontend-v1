@@ -1,4 +1,4 @@
-## Frontend Appearance 
+## Front End Appearance 
 
 Below is how the landing page and chat dashboard appear 
 
